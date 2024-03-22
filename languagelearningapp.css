@@ -1,0 +1,57 @@
+tml {
+    background-image: url("https://oraciones-con-la-palabra.com/wp-content/uploads/2023/03/oraciones-con-la-palabra-lenguaje.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    text-decoration: underline  black;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+p {
+   text-align: center;
+   font-size: 30px;
+   color: rgba(0, 0, 0, 0.833);
+}
+body {
+    text-align: center;
+    font-size: 20px;
+}
+section {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+a {
+   color:black;
+   font-size: 25px;
+}
+footer p {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+section p {
+    text-align: center;
+}
+mark {
+    background-color: rgb(170, 170, 255);
+}
+body{
+    text-align: center;
+    background-image: url("https://cdn.create.vista.com/api/media/medium/22369587/stock-vector-abstarct-vector-blue-background-yellow-lines?token=");
+    background-size: cover;
+}
+.box2{
+    height: 60px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 0px 50px 10px;
+    
+}

@@ -1,0 +1,46 @@
+html {
+    background-image: url("https://expatchild.com/wp-content/uploads/2018/07/online-language-learning.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#box {
+    height: 30px ;
+    width: 500px;
+    position: center;
+    background-color: aliceblue ;
+}
+#border {
+    height: 100px;
+    width: 1000px;
+    background-color: aliceblue;
+}
+#footer {
+    background-color: black;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    font-style: italic;
+}
+p {
+    font-family: cursive;
+}
+section {
+    text-decoration: underline solid;
+    font-size: 19px;
+}
+section p {
+    text-decoration: none;
+}
+p1 {
+    font-size: 30px;
+}
+mark {
+    background-color:bisque ;
+    color: black;
+}
+footer {
+    text-align: center;
+}

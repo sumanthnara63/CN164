@@ -1,0 +1,27 @@
+html {
+    background-image: url("https://www.forumdaily.com/wp-content/uploads/2023/10/iStock-1632920571.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top;
+} 
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color:burlywood;
+}
+body {
+    font-size: 30px;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    font-size: 35px;
+    color: whitesmoke;
+}
+
+a{
+    color:whitesmoke;
+} 
+p {
+    color:antiquewhite;
+}
